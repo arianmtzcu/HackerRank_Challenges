@@ -1,7 +1,4 @@
 package g_avanced;
-
-import org.omg.CORBA.PUBLIC_MEMBER;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -53,7 +50,6 @@ class AndhraPradesh extends Region{
         return new Lily();
     }
 }
-
 
 public class Covariant_Return_Types {
     public static void main(String[] args) throws IOException {
