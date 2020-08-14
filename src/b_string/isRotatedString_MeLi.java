@@ -10,6 +10,7 @@ public class isRotatedString_MeLi {
         System.out.println(isRotatedString(a, b));
     }
 
+    // Method that verify to is rotated a string
     static boolean isRotatedString(String a, String b) {
         char[] c = a.toCharArray();
         char[] d = b.toCharArray();
