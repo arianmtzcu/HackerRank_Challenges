@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Substring_Comparisons {
 
     public static String getSmallestAndLargest(String s, int k) {
+        //Initializing
         String smallest = "";
         String largest = "";
 
